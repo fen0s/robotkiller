@@ -77,8 +77,8 @@ setTimeout(()=>text(document.getElementById("text"), `
 Для тебя с котом у меня есть... Тортик!
 `), 76000)
 setTimeout(()=>{document.getElementById("cake").innerHTML = `       
-++i.i.i.i.i.i.i++
-++|....................|
++++i.i.i.i.i.i.i+++
++.|.....................|
 __|___________|__
 |^^^^^^^^^^^^^^^^^|
 ___________________
