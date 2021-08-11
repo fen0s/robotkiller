@@ -78,7 +78,7 @@ setTimeout(()=>text(document.getElementById("text"), `
 `), 76000)
 setTimeout(()=>{document.getElementById("cake").innerHTML = `       
 ++i.i.i.i.i.i.i++
-++|......................|
+++|....................|
 __|___________|__
 |^^^^^^^^^^^^^^^^^|
 ___________________
